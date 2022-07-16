@@ -1,0 +1,4 @@
+Nama : MOHAMMAD KEVIN PUTRA ADIYAKSA
+NIM : 191021400022
+Kelas : 06TPLE007
+Matkul : Kecerdasan Buatan
